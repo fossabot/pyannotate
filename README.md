@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fpyannotate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fpyannotate?ref=badge_shield)
+
 PyAnnotate: Auto-generate PEP-484 annotations
 =============================================
 
@@ -114,3 +116,6 @@ Licence etc.
 3. External contributions to the project should be subject to
    Dropbox's Contributor License Agreement (CLA):
    https://opensource.dropbox.com/cla/
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fpyannotate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fpyannotate?ref=badge_large)
